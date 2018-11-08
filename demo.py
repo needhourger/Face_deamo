@@ -96,7 +96,7 @@ def register():
 
 def print_menu():
     os.system("cls")
-    print(" Face Recognition deamo  ")
+    print(" Face Recognition demo  ")
     print("             --Code by cc")
     print("=========================")
     print("     1.register          ")
